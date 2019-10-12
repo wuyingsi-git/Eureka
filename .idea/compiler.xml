@@ -9,6 +9,7 @@
         <module name="euerka-server2" />
         <module name="euerkaserver3" />
         <module name="eureka-server" />
+        <module name="server-a-api" />
         <module name="serviceA" />
         <module name="serviceB" />
       </profile>
@@ -18,6 +19,7 @@
       <module name="euerkaserver3" target="1.6" />
       <module name="eureka-demo" target="1.6" />
       <module name="eureka-server" target="1.6" />
+      <module name="server-a-api" target="1.6" />
       <module name="serviceA" target="1.6" />
       <module name="serviceB" target="1.6" />
     </bytecodeTargetLevel>
